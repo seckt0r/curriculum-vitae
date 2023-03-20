@@ -1,12 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1679302913 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1679302913 0
-  "resume_cv.xdv" 1679302913 136648 12f892204c123a7536dbf58043c50f1d "xelatex"
+["xdvipdfmx"] 1679313534 "resume_cv.xdv" "resume_cv.pdf" "resume_cv" 1679313535 0
+  "resume_cv.xdv" 1679313534 127064 2986fec958710e86e740ce9a6d8d0eac "xelatex"
   (generated)
   "resume_cv.pdf"
   (rewritten before read)
-["xelatex"] 1679302912 "/home/benone.marcos/Projectos/curriculum-vitae/resume_cv.tex" "resume_cv.xdv" "resume_cv" 1679302913 0
+["xelatex"] 1679313533 "/home/benone.marcos/Projectos/curriculum-vitae/resume_cv.tex" "resume_cv.xdv" "resume_cv" 1679313535 0
   "/home/benone.marcos/.texlive2021/texmf-var/web2c/xetex/xelatex.fmt" 1670575350 5091117 791447131cc9e98871f0f78a0eb179de ""
-  "/home/benone.marcos/Projectos/curriculum-vitae/resume_cv.tex" 1679302623 3788 7cbaa56c3b95b7c96e55c7e163732c4f ""
+  "/home/benone.marcos/Projectos/curriculum-vitae/resume_cv.tex" 1679313420 3749 b062b409aade31113782384e6728de3c ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -168,18 +168,18 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1661385786 40136 b05acc85e8425979e52682d98a2bcacf ""
   "awesome-cv.cls" 1679296141 25526 5103d9e9f45668e813e036245893f2d5 ""
   "cv-sections/committees.tex" 1652878209 699 d87b9804a415916fc181a673dce659df ""
-  "cv-sections/education.tex" 1679302912 3657 8dd35617d8da92eae7a7aec36903620b ""
-  "cv-sections/experience.tex" 1679302447 9308 7efa0cff9992c9d06cb8dce82c6fd4df ""
-  "cv-sections/extracurricular.tex" 1652878209 2104 450e1234e58400e6e04ff8b67a0d5680 ""
-  "cv-sections/links.tex" 1679298251 1527 d2b7d0524b24f3c10c5d29fa195071ec ""
+  "cv-sections/education.tex" 1679305373 3756 8dfd2aa19a6cdb6895f48528504978ad ""
+  "cv-sections/experience.tex" 1679313533 9305 33d66f45277347fbfba0e8a83148653d ""
+  "cv-sections/extracurricular.tex" 1679305831 2103 8a253b04f66deb5ef50f6bcd7b60ad79 ""
+  "cv-sections/links.tex" 1679313411 1527 7c898e90ab93bcbd31e228cad94001ff ""
   "cv-sections/notas.tex" 1652878209 780 4d45ec1ce1407c7cad08c433bf6187b7 ""
-  "cv-sections/presentation.tex" 1652878209 1318 641fcd4fa2a589306c447a84d8e23a99 ""
+  "cv-sections/presentation.tex" 1679305927 1317 7129b147f218f0d6bafc35dd8314bada ""
   "cv-sections/skills.tex" 1679297905 2264 66a62ae024a9c3b3087b6016c4f7146e ""
-  "cv-sections/writing.tex" 1652878209 1121 a1a6c0da4f1accd3e0c6647d1f4c8b33 ""
+  "cv-sections/writing.tex" 1679305958 1122 6036c01e3f859cd1a818b749131a98ae ""
   "fontawesome.sty" 1652878209 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume_cv.aux" 1679302913 652 079712b44783de4e6640a1a0c33b6341 "xelatex"
-  "resume_cv.out" 1679302913 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "resume_cv.tex" 1679302623 3788 7cbaa56c3b95b7c96e55c7e163732c4f ""
+  "resume_cv.aux" 1679313534 652 da5da5085542898129fad9890f4f009c "xelatex"
+  "resume_cv.out" 1679313534 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume_cv.tex" 1679313420 3749 b062b409aade31113782384e6728de3c ""
   (generated)
   "resume_cv.aux"
   "resume_cv.log"

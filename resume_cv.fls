@@ -1132,11 +1132,11 @@ INPUT ./cv-sections/education.tex
 INPUT cv-sections/education.tex
 INPUT ./cv-sections/education.tex
 INPUT cv-sections/education.tex
+INPUT ./cv-sections/experience.tex
+INPUT cv-sections/experience.tex
+INPUT ./cv-sections/experience.tex
+INPUT cv-sections/experience.tex
 OUTPUT resume_cv.xdv
-INPUT ./cv-sections/experience.tex
-INPUT cv-sections/experience.tex
-INPUT ./cv-sections/experience.tex
-INPUT cv-sections/experience.tex
 INPUT ./cv-sections/skills.tex
 INPUT cv-sections/skills.tex
 INPUT ./cv-sections/skills.tex
