@@ -1,0 +1,34 @@
+# Ignora arquivos de compilação LaTeX e temporários
+*.aux
+*.fdb_latexmk
+*.fls
+*.xdv
+*.bak
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pdf
+
+# Ignora diretório de build
+build/
+
+# Ignora arquivos temporários do sistema
+*~
+*.swp
+*.tmp
+
+# Ignora arquivos de fontes e links gerados
+!fonts/
+!Links/
+
+# Permite arquivos relevantes do projeto
+!resume_cv.tex
+!cover_letter.tex
+!awesome-cv.cls
+!fontawesome.sty
+!cv-sections/*.tex
+!typst/
+!typst/main.typ
+!typst/template.typ
+!typst/cv-sections/*.typ
