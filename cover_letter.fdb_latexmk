@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1723708844.55306 "cover_letter.xdv" "cover_letter.pdf" "cover_letter" 1723708844.76578 0
-  "cover_letter.xdv" 1723708844.46757 18152 f28c3aa57eb00d23b413235f2227aa0b "xelatex"
+["xdvipdfmx"] 1723716259.56212 "cover_letter.xdv" "cover_letter.pdf" "cover_letter" 1723716259.76977 0
+  "cover_letter.xdv" 1723716259.47246 18680 423483023013c4e4ea35be96dd8cea26 "xelatex"
   (generated)
   "cover_letter.pdf"
   (rewritten before read)
-["xelatex"] 1723708843.38432 "/home/benone.marcos/Projectos/curriculum-vitae/cover_letter.tex" "cover_letter.xdv" "cover_letter" 1723708844.76365 0
-  "/home/benone.marcos/Projectos/curriculum-vitae/cover_letter.tex" 1723708843.13556 6857 9ba808a67acc14c4624957d76a8613dd ""
+["xelatex"] 1723716258.35471 "/home/benone.marcos/Projectos/curriculum-vitae/cover_letter.tex" "cover_letter.xdv" "cover_letter" 1723716259.7677 0
+  "/home/benone.marcos/Projectos/curriculum-vitae/cover_letter.tex" 1723716258.15545 6909 eca056d6eed54a9d38ece2bafbf586b2 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -162,9 +162,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1714953600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1720791920 11130199 7537732dd0b84de32297f63e5c2823dd ""
   "awesome-cv.cls" 1679296141.95087 25526 5103d9e9f45668e813e036245893f2d5 ""
-  "cover_letter.aux" 1723708844.46657 520 9c1a709c014649c32e70d4a7a33299d3 "xelatex"
-  "cover_letter.out" 1723708844.45057 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "cover_letter.tex" 1723708843.13556 6857 9ba808a67acc14c4624957d76a8613dd ""
+  "cover_letter.aux" 1723716259.47246 520 9c1a709c014649c32e70d4a7a33299d3 "xelatex"
+  "cover_letter.out" 1723716259.45646 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "cover_letter.tex" 1723716258.15545 6909 eca056d6eed54a9d38ece2bafbf586b2 ""
   "fontawesome.sty" 1652878209.63688 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
   (generated)
   "cover_letter.aux"
